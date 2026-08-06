@@ -1,7 +1,7 @@
 
 import './App.css'
 import { JsQuest } from './JsQuest'
-import { ReactQuest } from './ReactQuest'
+import  ReactQuest  from './ReactQuest'
 import { Navbar } from './Navbar'
 
 
