@@ -1,0 +1,17 @@
+.questOpeners{
+    margin-left: 10px;
+}
+
+.imagesmall{
+    height: 40px;
+    width: 40px;
+    object-fit: cover;
+    border-radius: 50%;
+   border: none;
+   padding: 0;
+}
+
+.topic{
+    display: grid;
+    
+}
